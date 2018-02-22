@@ -1,3 +1,6 @@
 body {
-    background-image: "assets/images/film.jpg"
+    background-image: url(assets/images/car.jpg);
+}
+.container {
+    color: rgb(32, 30, 30);
 }
