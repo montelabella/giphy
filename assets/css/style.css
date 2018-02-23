@@ -1,6 +1,9 @@
 body {
-    background-image: url(assets/images/car.jpg);
+  background-image: url(assets/images/actor.jpg);
 }
 .container {
     color: rgb(32, 30, 30);
+}
+.btn {
+    color: black;
 }
