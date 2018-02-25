@@ -1,9 +1,15 @@
 body {
-  background-image: url(../images/actor.jpg);
-}
-.container {
-    color: rgb(32, 30, 30);
-}
-.btn {
-    color: black;
-}
+    background-image: url(../images/actor.jpg);
+    background-color: rgba(0, 255, 188, 0.5);
+    background-position: center ;
+    background-image: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  .artist {
+      margin: 5px;
+  }
+  h1 {
+      font-family: fantasy;
+  }
